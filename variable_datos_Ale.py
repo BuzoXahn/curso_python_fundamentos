@@ -7,9 +7,12 @@ edad=20
 peso =100.3
 #tipo de dato boolean
 nublado= True
-
-
 print(alumno)
 print(edad)
 print(peso)
 print(nublado)
+
+print(type(alumno))
+print(type(edad))
+print(type(peso))
+print(type(nublado))
