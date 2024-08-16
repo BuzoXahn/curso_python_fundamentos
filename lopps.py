@@ -1,3 +1,5 @@
+contador = 0
+part_max = int(input("Por favor ingresa cabtidad e participantes: "))
 confirmacion = "si"
 numero = 100
 for x in range (2):
